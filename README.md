@@ -1,6 +1,5 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# News Flash
+To show live News of present day with categories of news
 
 ## Available Scripts
 
