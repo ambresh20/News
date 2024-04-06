@@ -5,6 +5,12 @@ To show live News of present day with categories of news
 
 In the project directory, you can run:
 
+## Demo
+![Screenshot 2024-04-06 112415](https://github.com/ambresh20/News/assets/90375507/5457f6e9-0bbd-4044-b9c1-4f4f5a80c0fc)
+<br> <br>
+<img width="852" alt="Screenshot 2024-04-06 15" src="https://github.com/ambresh20/News/assets/90375507/21b01256-b274-4b0e-9292-6a5e54880f36">
+<br> <br>
+
 ### `npm start`
 
 Runs the app in the development mode.\
